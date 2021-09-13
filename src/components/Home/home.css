@@ -1,0 +1,8 @@
+.home {
+    background: #fff;
+    background-image: url('../pictures/photo-1558522190-88c589f56171.jpeg');
+    background-size: contain;
+    height: calc(100vh - 4rem - 10vh);
+    overflow: auto;
+    width: 100%;
+}
